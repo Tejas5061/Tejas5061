@@ -46,14 +46,14 @@ and the AI agents and automations that quietly run the business behind them. Bas
 
 ## Featured projects
 
-| Project | What it does | Built with | Links |
+| Project | What it does | Built with | See it |
 | --- | --- | --- | --- |
-| **WhatsApp AI Agent** | One WhatsApp number for admins, site engineers and customers of real-estate and construction firms: property search, leads, site visits, bill OCR and Excel/CSV/PDF reports. Every AI tool call checks the sender's role first. | Next.js, TypeScript, Supabase, Gemini / Claude, n8n | [Live](https://krovntech-agent.vercel.app) · [Code](https://github.com/Tejas5061/krovntech) |
-| **KrovnTech website** | The agency site: a Three.js particle field that morphs as you scroll, Google sign-in, and pages prerendered for SEO. | React, Vite, Tailwind CSS, Three.js, Framer Motion, Supabase | [Live](https://krovntech.vercel.app) · [Code](https://github.com/Tejas5061/krovntech-website) |
-| **Portfolio and Krovn AI** | A WebGL stage of 42,000 morphing particles with custom GLSL shaders, plus an AI assistant that fails over between Gemini and OpenAI and captures project briefs. | Vite, Three.js, GLSL, GSAP, Vercel Functions | [Live](https://tejas-sharmale.vercel.app) · [Code](https://github.com/Tejas5061/portfolio) |
-| **Saitej Classes** | A library-free tuition-class website with a raw WebGL chalk-dust scene and local SEO. | HTML, CSS, JavaScript, WebGL | [Live](https://saitej-classes.vercel.app) · [Code](https://github.com/Tejas5061/saitej-classes) |
-| **Emotion-based music recommender** | Detects facial emotion in real time with a CNN and OpenCV, then plays a matching Spotify playlist. Team project of 4. | Python, OpenCV, CNN, Flask, Spotify API | [Code](https://github.com/Tejas5061/Music-Recommendation-System-Facial-Emotion) |
-| **Product management system** | Stores and manages product details with Java and Hibernate. | Java, Hibernate, MySQL | [Code](https://github.com/Tejas5061/product_mgt_hb) |
+| **WhatsApp AI Agent** | One WhatsApp number for admins, site engineers and customers of real-estate and construction firms: property search, leads, site visits, bill OCR and Excel/CSV/PDF reports. Every AI tool call checks the sender's role first. | Next.js, TypeScript, Supabase, Gemini / Claude, n8n | [Live](https://krovntech-agent.vercel.app) |
+| **KrovnTech website** | The agency site: a Three.js particle field that morphs as you scroll, Google sign-in, and pages prerendered for SEO. | React, Vite, Tailwind CSS, Three.js, Framer Motion, Supabase | [Live](https://krovntech.vercel.app) |
+| **Portfolio and Krovn AI** | A WebGL stage of 42,000 morphing particles with custom GLSL shaders, plus an AI assistant that fails over between Gemini and OpenAI and captures project briefs. | Vite, Three.js, GLSL, GSAP, Vercel Functions | [Live](https://tejas-sharmale.vercel.app) |
+| **Saitej Classes** | A library-free tuition-class website with a raw WebGL chalk-dust scene and local SEO. | HTML, CSS, JavaScript, WebGL | [Live](https://saitej-classes.vercel.app) |
+| **Emotion-based music recommender** | Detects facial emotion in real time with a CNN and OpenCV, then plays a matching Spotify playlist. Team project of 4. | Python, OpenCV, CNN, Flask, Spotify API | Code on request |
+| **Product management system** | Stores and manages product details with Java and Hibernate. | Java, Hibernate, MySQL | Code on request |
 
 ## Experience
 
@@ -72,5 +72,5 @@ Software Engineer and Full Stack Developer roles, and web, AI agent and automati
 
 ---
 
-<sub>The code in my repositories is public so it can be reviewed. Unless a repository's LICENSE says
-otherwise, all rights are reserved: please ask before copying or reusing any of it.</sub>
+<sub>The source code for these projects is private and all rights are reserved. I'm happy to walk
+through it or share access during an interview: just ask.</sub>
