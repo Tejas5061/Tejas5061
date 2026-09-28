@@ -38,6 +38,7 @@ and the AI agents and automations that quietly run the business behind them. Bas
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -48,6 +49,7 @@ and the AI agents and automations that quietly run the business behind them. Bas
 
 | Project | What it does | Built with | See it |
 | --- | --- | --- | --- |
+| **Kosh Bank** | A retail bank with customer, teller and admin portals. Transfers lock accounts in a fixed order so parallel payments can't deadlock or double-spend, payments are idempotent, and the interest, deposit and EMI jobs are safe to run twice. 61 tests, including 40 concurrent transfers on real MySQL. | Java 21, Spring Boot 3, MySQL, React, TypeScript, Docker | [Live](https://kosh-bank.vercel.app) · [Code](https://github.com/Tejas5061/bank-management-system) |
 | **WhatsApp AI Agent** | One WhatsApp number for admins, site engineers and customers of real-estate and construction firms: property search, leads, site visits, bill OCR and Excel/CSV/PDF reports. Every AI tool call checks the sender's role first. | Next.js, TypeScript, Supabase, Gemini / Claude, n8n | [Live](https://krovntech-agent.vercel.app) |
 | **KrovnTech website** | The agency site: a Three.js particle field that morphs as you scroll, Google sign-in, and pages prerendered for SEO. | React, Vite, Tailwind CSS, Three.js, Framer Motion, Supabase | [Live](https://krovntech.vercel.app) |
 | **Portfolio and Krovn AI** | A WebGL stage of 42,000 morphing particles with custom GLSL shaders, plus an AI assistant that fails over between Gemini and OpenAI and captures project briefs. | Vite, Three.js, GLSL, GSAP, Vercel Functions | [Live](https://tejas-sharmale.vercel.app) |
@@ -72,5 +74,5 @@ Software Engineer and Full Stack Developer roles, and web, AI agent and automati
 
 ---
 
-<sub>The source code for these projects is private and all rights are reserved. I'm happy to walk
-through it or share access during an interview: just ask.</sub>
+<sub>Kosh Bank's source code is public; the code for the other projects is private. All rights are
+reserved. I'm happy to walk through any of it or share access during an interview: just ask.</sub>
